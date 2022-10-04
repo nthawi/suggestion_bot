@@ -13,7 +13,7 @@
 
 * Скачать и распаковать архив
 * Установить питон любым из доступных методов: <br>
-с <a href = "https://www.python.org/downloads/">официального сайта</a> (необходимо учесть, что при установке <b>обязательно</b> нужно отметить галочку добавления в путь) ![image](https://user-images.githubusercontent.com/75478010/193867844-aff0ddb1-5df5-4cdf-bf8a-f2ca4b9d913f.png)
+с <a href = "https://www.python.org/downloads/">официального сайта</a> (необходимо учесть, что при установке <b>обязательно</b> нужно отметить галочку добавления в путь)<br> ![image](https://user-images.githubusercontent.com/75478010/193867844-aff0ddb1-5df5-4cdf-bf8a-f2ca4b9d913f.png)<br>
 </b><br>
 через <a href = "https://apps.microsoft.com/store/detail/python-39/9P7QFQMJRFP7">магазин майкрософт</a><br>
 либо использовать другие источники из интернета<br>
